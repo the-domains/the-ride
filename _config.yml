@@ -1,0 +1,28 @@
+name: The Ride
+favicon: null
+layout_spectrum: 0.7246960976626724
+typography_spectrum: 0.248484936542809
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1877755685709417
+  lightness: 0.6454473775811493
+  saturation: 0.4570509195327759
+  rhythmicContrast: 0.7261256980709732
+purpose: []
